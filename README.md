@@ -9,11 +9,12 @@ I am a **Computer Science student (Data Analytics)** with 10+ years of leadershi
 [LinkedIn](https://www.linkedin.com/in/erica-kinch) | [Substack](https://ektech.substack.com/) | [Email](mailto:ek.does.tech@gmail.com)
 
 ---
+
 ## 📂 Portfolio Hubs
 
-- **[Technical Portfolio](https://github.com/ekdoestech/technical-portfolio)** – Curated technical projects in analytics, software development, and operations-minded problem solving.
-- **[Academic Portfolio](https://github.com/ekdoestech/academic-portfolio)** – Organized index of coursework, class projects, and technical artifacts from my Computer Science program.
-
+- **[Technical Portfolio](https://github.com/ekdoestech/technical-portfolio)** – Curated projects in analytics, software development, and operations-minded problem solving.
+- **[Academic Portfolio](https://github.com/ekdoestech/academic-portfolio)** – Coursework, class projects, and technical artifacts from my Computer Science program.
+- 
 ---
 
 ## 🚀 Featured Projects
@@ -21,12 +22,12 @@ I am a **Computer Science student (Data Analytics)** with 10+ years of leadershi
 ### [Echoes-of-Abyssus-9](https://github.com/ekdoestech/Echoes-of-Abyssus-9)
 *Python | Modular Architecture | Game Logic*
 - Developed a modular, state-driven command-line engine.
-- **Business Value:** Demonstrates object-oriented design and scalable, maintainable code organization.
+- **Business value:** Demonstrates object-oriented design and scalable, maintainable code organization.
 
 ### [Corner-Grocer-Tracker](https://github.com/ekdoestech/corner-grocer-item-frequency-tracker)
 *C++ | Data Structures | File I/O*
 - Analyzes grocery transaction data to track item frequency and optimize inventory visibility.
-- **Business Value:** Directly mirrors retail inventory management logic, focusing on data integrity and computational efficiency.
+- **Business value:** Directly mirrors retail inventory management logic, focusing on data integrity and computational efficiency.
   
 ---
 
