@@ -14,7 +14,7 @@ I am a **Computer Science student (Data Analytics)** with 10+ years of leadershi
 
 - **[Technical Portfolio](https://github.com/ekdoestech/technical-portfolio)** – Curated projects in analytics, software development, and operations-minded problem solving.
 - **[Academic Portfolio](https://github.com/ekdoestech/academic-portfolio)** – Coursework, class projects, and technical artifacts from my Computer Science program.
-- 
+
 ---
 
 ## 🚀 Featured Projects
