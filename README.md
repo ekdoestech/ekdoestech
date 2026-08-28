@@ -12,66 +12,81 @@ My projects span Python, SQL, C++, Java, software security, systems analysis, an
 
 ---
 
----
-
 ## 📂 Portfolio Hubs
 
-- **[Technical Portfolio](https://github.com/ekdoestech/technical-portfolio)** – Curated projects in analytics, software development, and operations-minded problem solving.
-- **[Academic Portfolio](https://github.com/ekdoestech/academic-portfolio)** – Coursework, class projects, and technical artifacts from my Computer Science program.
+- **[Technical Portfolio](https://github.com/ekdoestech/technical-portfolio)** — Curated projects in analytics, software development, and operations-minded problem-solving.
+- **[Academic Portfolio](https://github.com/ekdoestech/academic-portfolio)** — Coursework, class projects, and technical artifacts from my Computer Science program.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
-### [Echoes-of-Abyssus-9](https://github.com/ekdoestech/Echoes-of-Abyssus-9)
-*Python | Modular Architecture | Game Logic*
-- Developed a modular, state-driven command-line engine.
-- **Business value:** Demonstrates object-oriented design and scalable, maintainable code organization.
+### [Corner Grocer Item Frequency Tracker](https://github.com/ekdoestech/corner-grocer-item-frequency-tracker)
 
-### [Corner-Grocer-Tracker](https://github.com/ekdoestech/corner-grocer-item-frequency-tracker)
-*C++ | Data Structures | File I/O*
-- Analyzes grocery transaction data to track item frequency and optimize inventory visibility.
-- **Business value:** Directly mirrors retail inventory management logic, focusing on data integrity and computational efficiency.
-  
----
+**C++ · STL · File I/O · Data Analysis**
 
-## ⚡ Current Initiatives
+Built a C++ application that transforms grocery transaction data into frequency reports, inventory signals, and restocking recommendations.
 
-* **Breaking Games E-Commerce Externship:** Currently completing an 8-week externship focused on e-commerce analytics, digital marketing data, and conversion optimization.
-* **Focus Areas:** Data analytics, Python/SQL optimization, process improvement, and decision-ready reporting.
+**What it demonstrates:** Translating raw operational data into useful business insights while maintaining clean, modular code.
 
----
-## 🛠 Technical Stack & Strategy
+### [DriverPass System Analysis and Design](https://github.com/ekdoestech/CS255-System-Analysis-and-Design)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+**Requirements Analysis · UML · System Design · Stakeholder Communication**
 
-### Tools & Workflow
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+Translated stakeholder interviews and business needs into documented requirements, process models, UML diagrams, and a proposed web-based system design.
 
-### **Operations & Leadership**
-* **Process Improvement:** Analyzing workflows to remove bottlenecks.
-* **KPI Analysis:** Translating raw data into "decision-ready" reporting.
-* **Strategic Communication:** Translating complex technical concepts for non-technical stakeholders.
+**What it demonstrates:** Connecting user needs, technical constraints, security considerations, and business objectives through clear systems analysis.
+
+### [Echoes of Abyssus-9](https://github.com/ekdoestech/Echoes-of-Abyssus-9)
+
+**Python · Modular Architecture · State Management · Testing**
+
+Developed a state-driven text-adventure engine with separated world, player, event, and interface components.
+
+**What it demonstrates:** Maintainable Python architecture, defensive program logic, extensible design, and focused testing.
+
+### [CS 305 Software Security](https://github.com/ekdoestech/CS305-Software-Security)
+
+**Java · Spring Boot · Secure Coding · Cryptography · Dependency Analysis**
+
+Portfolio work covering vulnerability assessment, secure software practices, dependency remediation, cryptography, and application-security testing.
+
+**What it demonstrates:** Identifying software risks and incorporating security throughout the development process.
 
 ---
 
-## 🌟 Professional Values
+## 📊 Data, AI & Current Direction
 
-* **Precision over Volume:** Clean, readable code is a business asset; technical debt is a liability.
-* **Actionable Insight:** Data only matters when it supports a decision.
-* **Continuous Iteration:** Moving from "functional" to "optimized" through relentless testing.
+- **Google Data Analytics Certificate:** Data preparation, analysis, visualization, and evidence-based decision-making.
+- **Breaking Games E-Commerce Externship:** SQL, database design, e-commerce analytics, marketing attribution, business intelligence, and dashboard recommendations.
+- **Applied AI:** Exploring responsible uses of AI for analysis, workflow improvement, technical problem solving, and decision support.
+- **Professional Development:** Continuing to connect Computer Science fundamentals with real operational and customer needs.
 
 ---
 
-## 📫 Connect with me
+## 🛠 Technical and Business Strengths
+
+| Area | Skills and Tools |
+|---|---|
+| Programming | Python, SQL, C++, Java |
+| Data and analytics | Data cleaning, KPI analysis, Excel, Google Sheets, business intelligence, dashboards, and decision-ready reporting |
+| Software development | Object-oriented programming, modular design, file processing, testing, and maintainable documentation |
+| Systems and security | Requirements analysis, UML, system modeling, secure coding, dependency analysis, and cryptography |
+| Development tools | Git, GitHub, VS Code, JetBrains tools, Lucidchart, and Notion |
+| Leadership and operations | Sales leadership, customer experience, process improvement, coaching, and strategic communication |
+
+---
+
+## 💡 How I Work
+
+- I begin with the user, business problem, and desired outcome—not a preferred technology.
+- I translate complex requirements and technical findings into language stakeholders can act on.
+- I value readable code, reliable analysis, thoughtful testing, and solutions that work in real environments.
+- I bring a customer-focused and operations-aware perspective to technical problem-solving.
+
+---
+
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica-kinch)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://ektech.substack.com/)
