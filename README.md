@@ -1,6 +1,6 @@
-# Erica Kinch | Computer Science, Data & Applied AI
+# Erica Kinch | Computer Science | Data Analytics
 
-**Building decision-ready analytics, reliable software, and practical AI systems.**
+**Building decision-ready analytics, reliable software, and practical systems.**
 
 ---
 
