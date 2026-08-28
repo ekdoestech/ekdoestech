@@ -1,12 +1,16 @@
-# Erica Kinch | Data Analytics & Development
+# Erica Kinch | Computer Science, Data & Applied AI
 
-**Bridging technical execution, analytics, and business operations.**
+**Building decision-ready analytics, reliable software, and practical AI systems.**
 
 ---
 
-I am a **Computer Science student (Data Analytics)** with 10+ years of leadership and retail operations experience. I build tools and analyses that reduce friction, clarify data, and support better decisions.
+I’m a Computer Science student focused on data analytics, software development, systems analysis, and practical applications of AI. I bring more than 10 years of leadership, sales, and customer-facing retail experience to technical work, translating complex problems into clear, useful solutions.
+
+My projects span Python, SQL, C++, Java, software security, systems analysis, and data-informed decision-making.
 
 [LinkedIn](https://www.linkedin.com/in/erica-kinch) | [Substack](https://ektech.substack.com/) | [Email](mailto:ek.does.tech@gmail.com)
+
+---
 
 ---
 
